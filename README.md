@@ -4,7 +4,7 @@ iceGLITCH is a cheap, fun and terrible voltage glitcher!
 
 You can use it to inject faults in the voltage line of targets, making them do weird things.
 
-You can control both the normal and glitch voltage levels, and if you squint and sort of wave your hands a lot, then you can pretend you get ~200ps of resolution for both the glitch delay (time between trigger and glitch) and length (time that the voltage is changed from normal to glitch level).
+You can control both the normal and glitch voltage levels, and if you squint and sort of wave your hands a lot, then you can pretend you get ~200ps of resolution for the glitch length (time that the voltage is changed from normal to glitch level).
 
 Come by our 'Hardware Slackers' assembly at 36C3 and see it in person,
 and feel free to complain at us about things that don't work.
