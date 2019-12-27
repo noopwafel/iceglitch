@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP2210N-4.0
+D 300mA low dropout linear regulator, shutdown pin, 2.5V-6V input voltage, 1.2V fixed positive output, SOT-23-3 package
+K linear regulator ldo fixed positive
+F https://www.diodes.com/assets/Datasheets/AP2127.pdf
+$ENDCMP
+#
+$CMP TS5A63157
+D sot-23-6 switch
+K Analog Switch
+$ENDCMP
+#
+#End Doc Library
