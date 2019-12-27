@@ -26,6 +26,10 @@ sense than others; however, we guarantee that all combinations will be both terr
 
 You can use it with any ICE40HX FPGA board with a PMOD connector; we're using the cheap (~22eur) 'iCEstick'.
 
+Also it turns out you don't have to solder it nicely, it'll work fine anyway:
+
+![Image of badly-soldered rev2 board](images/pcb_rev2.jpeg)
+
 # Code
 
 The 'TOE' directory contains code for some example targets.
