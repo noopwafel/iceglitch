@@ -1,0 +1,19 @@
+set_io clk J3
+
+set_io LED1 B5
+set_io LED2 B4
+set_io LED3 A2
+set_io LED4 A1
+set_io LED5 C5
+
+set_io RSTn C16 -pullup yes
+
+set_io RX B10
+set_io TX B12
+
+set_io trigger_in H16
+set_io switch_out D16
+
+
+set_io PWM1 B15
+set_io PWM2 D15

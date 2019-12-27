@@ -30,7 +30,7 @@ You can use it with any ICE40HX FPGA board with a PMOD connector; we're using th
 
 The 'TOE' directory contains code for some example targets.
 
-The FPGA code (to be built using the open source yosys/nextpnr toolchain) is in the 'fpga' directory.
+The FPGA code (to be built using the open source yosys/nextpnr toolchain) is in the 'fpga' directory. We can't write verilog, there are no test cases, it is all terrible. We are sorry, our code is bad and we should feel bad. But it works :D
 
 The (python) scripts are in the 'scripts' directory, including scripts to attack the example targets.
 
