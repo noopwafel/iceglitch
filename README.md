@@ -6,8 +6,7 @@ You can use it to inject faults in the voltage line of targets, making them do w
 
 You can control both the normal and glitch voltage levels, and if you squint and sort of wave your hands a lot, then you can pretend you get ~200ps of resolution for the glitch length (time that the voltage is changed from normal to glitch level). Accuracy, on the other hand, is left as an exercise for the reader..
 
-Come by our 'Hardware Slackers' assembly at 36C3 and see it in person,
-and feel free to complain at us about things that don't work.
+Many people played with this at the 'Hardware Slackers' assembly at 36C3! We're still recovering and will update the repository once we've gotten a few days of good sleep.
 
 This is what a typical setup looks like:
 
